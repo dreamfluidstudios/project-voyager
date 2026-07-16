@@ -1,3 +1,15 @@
+[!NOTE]
+**Archived — July 2026**
+
+Project Voyager was a Dreamfluid Labs exploration into shared project
+context across AI clients and project-management systems.
+
+The technical proof of concept succeeded, but the standalone commercial
+thesis was not validated. Native MCP integrations from platforms such as
+Notion and GitHub solved the core need more directly and with less complexity.
+
+This repository is preserved as a technical reference and record of the experiment.
+
 # Project Voyager — Local Cross-AI Continuity POC
 
 Project Voyager is a deliberately small local proof of concept for one question: can one AI client update shared project state and a second AI client continue from it without the user restating the work?
