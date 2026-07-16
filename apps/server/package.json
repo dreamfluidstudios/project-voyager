@@ -1,0 +1,15 @@
+{
+  "name": "@project-voyager/server",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "bin": {
+    "project-voyager": "./dist/index.js",
+    "project-voyager-mcp": "./dist/index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "1.29.0",
+    "@project-voyager/core": "0.1.0",
+    "@project-voyager/mcp": "0.1.0"
+  }
+}

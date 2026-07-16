@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "project-voyager": {
+      "command": "{{NODE_COMMAND}}",
+      "args": [
+        "{{SERVER_PATH}}"
+      ],
+      "env": {
+        "VOYAGER_DATA_DIR": "{{DATA_DIRECTORY}}",
+        "VOYAGER_PROJECT_ID": "{{PROJECT_ID}}"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "task-001",
+    "title": "Create local MCP server",
+    "description": "Expose shared Voyager project context over MCP.",
+    "status": "ready",
+    "priority": "high",
+    "updatedAt": "2026-07-12T07:30:00.000Z"
+  },
+  {
+    "id": "task-002",
+    "title": "Connect first AI client",
+    "description": "Configure one MCP-compatible client to read and update Voyager state.",
+    "status": "backlog",
+    "priority": "high",
+    "updatedAt": "2026-07-12T07:30:00.000Z"
+  },
+  {
+    "id": "task-003",
+    "title": "Verify cross-AI handoff",
+    "description": "Use a second client to read the first client's persisted update.",
+    "status": "backlog",
+    "priority": "high",
+    "updatedAt": "2026-07-12T07:30:00.000Z"
+  }
+]

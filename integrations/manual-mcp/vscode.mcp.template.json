@@ -1,0 +1,16 @@
+{
+  "servers": {
+    "project-voyager": {
+      "type": "stdio",
+      "command": "{{NODE_COMMAND}}",
+      "args": [
+        "{{SERVER_PATH}}"
+      ],
+      "cwd": "{{PROJECT_ROOT}}",
+      "env": {
+        "VOYAGER_DATA_DIR": "{{DATA_DIRECTORY}}",
+        "VOYAGER_PROJECT_ID": "{{PROJECT_ID}}"
+      }
+    }
+  }
+}

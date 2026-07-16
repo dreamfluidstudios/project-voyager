@@ -1,0 +1,12 @@
+{
+  "id": "voyager-poc",
+  "name": "Project Voyager",
+  "summary": "A local proof of concept for cross-AI work continuity.",
+  "currentMilestone": {
+    "id": "milestone-poc",
+    "name": "Local continuity proof",
+    "status": "in_progress"
+  },
+  "blockers": [],
+  "updatedAt": "2026-07-12T07:30:00.000Z"
+}

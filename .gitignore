@@ -1,0 +1,11 @@
+node_modules/
+**/dist/
+*.tsbuildinfo
+.env
+.env.*
+.mcp.json
+.claude/
+.codex/
+.cursor/
+.vscode/
+.agents/

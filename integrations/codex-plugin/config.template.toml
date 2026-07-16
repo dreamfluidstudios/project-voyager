@@ -1,0 +1,11 @@
+# BEGIN PROJECT VOYAGER LOCAL SETUP
+[mcp_servers.project-voyager]
+command = {{NODE_COMMAND_TOML}}
+args = [{{SERVER_PATH_TOML}}]
+cwd = {{PROJECT_ROOT_TOML}}
+startup_timeout_sec = 120
+
+[mcp_servers.project-voyager.env]
+VOYAGER_DATA_DIR = {{DATA_DIRECTORY_TOML}}
+VOYAGER_PROJECT_ID = {{PROJECT_ID_TOML}}
+# END PROJECT VOYAGER LOCAL SETUP

@@ -1,0 +1,6 @@
+{
+  "name": "@project-voyager/workflow-spec",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Platform-neutral continuity workflow guidance."
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@project-voyager/client-sdk",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Reserved for future typed HTTP and application clients."
+}
